@@ -308,7 +308,7 @@ dependencies:
 
 ## 👨‍💻 Dörediji
 
-**Merdan Ysmayylow** — Oguz Han Inžener adyndaky we Tehnologiýa Uniwersiteti, Türkmenistan Ashgabat
+**Merdan Ysmayylow** — Oguz Han adyndaky Inžener we Tehnologiýalar Uniwersiteti, Türkmenistan Ashgabat
 
 ---
 
